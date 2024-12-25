@@ -6,7 +6,7 @@ export const mainnet = /*#__PURE__*/ defineChain({
   nativeCurrency: { name: 'Ether', symbol: 'ETH', decimals: 18 },
   rpcUrls: {
     default: {
-      http: ['https://cloudflare-eth.com'],
+      http: ['https://skilled-empty-tent.quiknode.pro/25ce16557add68436ede509aa9b990c491a1da1a/'],
     },
   },
   blockExplorers: {
